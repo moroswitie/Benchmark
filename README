@@ -19,8 +19,8 @@ Modified version (this version) located: https://github.com/moroswitie/Benchmark
 
 To run (please substitute your host details, you must include a valid email address to recieve your report):
 
-wget -N https://raw.githubusercontent.com/moroswitie/Benchmark/master/sb.sh&&bash sb.sh 'Web Host Name' 'Plan Name' 'youremail@address.com' 'Cost'
+wget -N https://raw.github.com/moroswitie/Benchmark/master/sb.sh&&bash sb.sh 'Web Host Name' 'Plan Name' 'youremail@address.com' 'Cost'
 
 Example:
 
-wget -N https://raw.githubusercontent.com/moroswitie/Benchmark/master/sb.sh&&bash sb.sh 'Linode' 'Linode 512' 'storecrowd@mailinator.com' '19.99'
+wget -N https://raw.github.com/moroswitie/Benchmark/master/sb.sh&&bash sb.sh 'Linode' 'Linode 512' 'storecrowd@mailinator.com' '19.99'
