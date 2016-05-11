@@ -21,6 +21,7 @@ To run (please substitute your host details, you must include a valid email addr
 
 wget -N https://raw.github.com/moroswitie/Benchmark/master/sb.sh&&bash sb.sh 'Web Host Name' 'Plan Name' 'youremail@address.com' 'Cost'
 
-Example:
+Example (second one will not post results on serverbear.com:
 
 wget -N https://raw.github.com/moroswitie/Benchmark/master/sb.sh&&bash sb.sh 'Linode' 'Linode 512' 'storecrowd@mailinator.com' '19.99'
+wget -N https://raw.github.com/moroswitie/Benchmark/master/sb.sh&&bash sb.sh 'Linode' 'Linode 512' 'storecrowd@mailinator.com' '19.99' private
